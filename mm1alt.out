@@ -1,0 +1,25 @@
+Single-server queueing system with fixed runlength
+
+Mean interarrival time      1.000 minutes
+
+Mean service time           0.500 minutes
+
+Number of customers           1000 minutes
+
+
+
+Average delay in queue      0.000 minutes
+
+
+
+Average number in queue     0.000
+
+
+
+Server Utilization          0.000 minutes
+
+
+
+Number of delays completed   1000
+
+Time simulation ended     1009.466
